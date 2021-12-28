@@ -8,6 +8,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
+**Skills Used:** Python, Pandas, Numpy, Sklearn, Linear Regression, Matplotlib Pyplot, Seaborn
+
+**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+
+**Quantifiable Results:** We could predict the bike rental demand resulting in 56% **accuracy**. 
+
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
@@ -15,9 +21,15 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/rushi2012/Logistic_Regression)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
+
+**Skills Used:** Python, Pandas, Numpy, Sklearn, Logistic Regression, Matplotlib Pyplot, Seaborn
+
+**Project Objective:**  Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis.
+
+**Quantifiable Results:** We could classfy the type of tumor resulting in 94% **accuracy**. 
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
@@ -26,9 +38,15 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/rushi2012/KNN_NB_Project)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
+
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points . 
+
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an **accuracy** of 85% with K=1.
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
