@@ -44,7 +44,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
-**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points . 
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points. 
 
 **Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an **accuracy** of 85% with K=1.
 
