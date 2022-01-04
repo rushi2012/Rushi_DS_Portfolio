@@ -98,3 +98,26 @@ The classification goal is to predict if the client will subscribe a term deposi
 - Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
 - Compared predictive performance by using  a elbow method to the data
 
+***
+
+[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/rushi2012/DNN_Project.git)
+
+ <img src="images/DNN.png?raw=true"/>
+
+**Skills Used:** Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+
+**Project Objective:** Implementing Deep Neural Network with Keras for handwritting classification and recognition
+
+**Quantifiable Results:**
+
+  - Loss = 0.037 - 0.99 = Final Model Eval = 99.0899%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+  - Improved the model
+  - Improved the depth of model
+
