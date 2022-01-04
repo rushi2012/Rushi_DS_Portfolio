@@ -83,3 +83,18 @@ The classification goal is to predict if the client will subscribe a term deposi
 - Selected best model based on train and test performance
 
 ***
+
+[The San Francisco Project on Clustering](https://github.com/rushi2012/K_mean_Project.git)
+
+<img src="images/clustering.png?raw=true"/>
+
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm
+
+**Project Objective:** We have to fit the data to a clustering model. The model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
+
+**Quantifiable result:** We could Classify 3 clusters from the dataset .
+
+- Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
+- Compared predictive performance by using  a elbow method to the data
+
