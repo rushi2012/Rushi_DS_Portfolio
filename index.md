@@ -42,7 +42,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN, NB
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points. 
 
@@ -66,3 +66,20 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 - in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
+***
+
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/rushi2012/Ensamble_Algo.git)
+
+<img src="images/credit_card.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, AdaBoostClassifier, BaggingClassifier
+
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an **accuracy of 90.5% **.
+
+- Used the Adaboost Classifier algorithm to classify the People who downloaded the app after watching the advertisement and identify the click fraud
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
+
+***
