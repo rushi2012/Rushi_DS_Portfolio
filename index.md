@@ -76,7 +76,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an **accuracy of 90.5%.
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an  **90.5% accuracy** .
 
 - Used the Adaboost Classifier algorithm to classify the People who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
