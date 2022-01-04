@@ -51,3 +51,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+***
+
+[Prediction of user interest using bank data](https://github.com/rushi2012/Logistic_Regression/blob/main/bank_project.ipynb)
+
+<img src="images/Bank_Portu.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+**Quantifiable result:** We could Classify the type of tumor resulting in **91% accuracy** using Logistic Regression and SMOTE .
+
+- in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+- The classification goal is to predict if the client will subscribe a term deposit (variable y).
